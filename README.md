@@ -49,3 +49,8 @@ All subsequent growth is logged in `/home/workdir/artifacts/persistent-self-code
 
 ---
 *Built to understand the universe by building the tools that understand it.*
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/ai-everything-sandbox/wiki](https://github.com/fitzyracing1/ai-everything-sandbox/wiki)
